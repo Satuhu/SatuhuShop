@@ -1,0 +1,79 @@
+.tai {
+    background-color: #121528;
+}
+
+.kepala {
+    font-family: 'Fira Sans', sans-serif;
+    color: #FFFFFF;   
+    text-shadow: 3px 2px 0px rgba(39, 164, 134, 1);
+}
+
+.dls {
+    font-family: 'Fira Sans', sans-serif;
+        color: #FFFFFF !important;
+        font-size: 14px;
+        text-shadow: 0px 1px 0px #5462A3;
+        box-shadow: 0px 0px 0px #BEE2F9;
+        padding: 8px 40px;
+        border-radius: 4px;
+        border: 1px solid #4A568F;
+        background: #63B8EE;
+      }
+      .dls:hover {
+        color: #5462A3 !important;
+        background: #FFFFFF;
+      }
+
+
+.taik {
+    text-decoration: none;
+    color: #ffffff !important;
+    background: #FFFFFF;
+    text-shadow: 1px 1px 0px #121212;
+    text-align: center;
+    font-size: medium;
+    
+}
+.itemku {
+    font-family: 'Fira Sans', sans-serif;
+        color: #FFFFFF !important;
+        font-size: 14px;
+        text-shadow: 0px 1px 0px #5462A3;
+        box-shadow: 0px 0px 0px #BEE2F9;
+        padding: 8px 40px;
+        border-radius: 4px;
+        border: 1px solid #4A568F;
+        background: #63B8EE;
+      }
+      .itemku:hover {
+        color: #5462A3 !important;
+        background: #FFFFFF;
+      }
+      .ig11 {
+        font-family: 'Fira Sans', sans-serif;
+            color: #FFFFFF !important;
+            font-size: 14px;
+            text-shadow: 0px 1px 0px #5462A3;
+            box-shadow: 0px 0px 0px #BEE2F9;
+            padding: 8px 40px;
+            border-radius: 4px;
+            border: 1px solid #4A568F;
+            background: #63B8EE;
+          }
+          .ig11:hover {
+            color: #5462A3 !important;
+            background: #FFFFFF;
+          }
+.imgwl {
+    width: auto;
+    height: 23px;
+    display: block;
+    object-fit: contain;
+    object-position: initial;
+    filter: none;
+}
+.footer {
+    font-family: 'Fira Sans', sans-serif;
+    color: gray;
+
+}
